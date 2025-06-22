@@ -2,6 +2,7 @@
 
 Trading a portfolio of cryptocurrencies using sentiment from X, reddit and news sources.
 
+Access my report [here](https://github.com/vas-byte/Crypto-Algo-Trading/blob/main/Report/Report.pdf)
 
 ## Run Locally
 
