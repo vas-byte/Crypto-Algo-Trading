@@ -48,7 +48,7 @@ for file in os.listdir(folder):
             # Granger: Sentiment → Price
             axes[1, 0].plot(lags, df['Granger_Sentiment_Twitter_Price'], label='Sentiment Granger-causes Price', color='green', marker='o')
             axes[1, 0].axhline(0.05, color='red', linestyle='--')
-            axes[1, 0].set_title(f"{symbol} - Sentiment Granger-causes Price (X)")
+            axes[1, 0].set_title(f"{symbol} - Returns Granger-causes Price (X)")
             axes[1, 0].set_xticks(range(0, 25, 2))
             axes[1,0].set_ylabel("p-value")
 
@@ -56,7 +56,7 @@ for file in os.listdir(folder):
             if 'Granger_Price_Twitter_Sentiment' in df.columns:
                 axes[1, 1].plot(lags, df['Granger_Price_Twitter_Sentiment'], label='Price Granger-causes Sentiment', color='purple', marker='o')
                 axes[1, 1].axhline(0.05, color='red', linestyle='--')
-                axes[1, 1].set_title(f"{symbol} - Price Granger-causes Sentiment (X)")
+                axes[1, 1].set_title(f"{symbol} - Returns Granger-cause Sentiment (X)")
                 axes[1, 1].set_xticks(range(0, 25, 2))
                 axes[1,1].set_ylabel("p-value")
             else:
