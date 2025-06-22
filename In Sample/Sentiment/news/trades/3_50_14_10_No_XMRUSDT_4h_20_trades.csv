@@ -1,0 +1,2 @@
+ref,date,size,price,direction,parent,pnl $,pair,pnl %,exit_price,exit_date,duration,order_close
+16183,2022-03-09 12:00:00,2.0672550419058435,193.3,long,-1,-10.712102176147724,XMRUSDT,-2.680703569580968,188.5,2022-03-10,0 days 12:00:00,SIGNAL

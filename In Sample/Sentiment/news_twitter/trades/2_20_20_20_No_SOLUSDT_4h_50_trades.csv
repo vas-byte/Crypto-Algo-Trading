@@ -1,0 +1,2 @@
+ref,date,size,price,direction,parent,pnl $,pair,pnl %,exit_price,exit_date,duration,order_close
+5146,2022-07-29 16:00:00,9.373689880375313,42.64,long,5146,11.617694995597885,SOLUSDT,2.9066463414634156,43.966,2022-07-30 20:00:00,1 days 04:00:00,TRAILING STOP

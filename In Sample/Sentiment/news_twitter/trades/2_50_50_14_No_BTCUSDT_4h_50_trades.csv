@@ -1,0 +1,2 @@
+ref,date,size,price,direction,parent,pnl $,pair,pnl %,exit_price,exit_date,duration,order_close
+1346,2022-10-27,0.019237833964583336,20771.61,long,-1,-9.956862624953994,BTCUSDT,-2.491702472750066,20295.11,2022-10-28,1 days,SIGNAL

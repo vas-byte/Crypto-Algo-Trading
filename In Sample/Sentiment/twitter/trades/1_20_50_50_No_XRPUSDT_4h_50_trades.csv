@@ -1,0 +1,2 @@
+ref,date,size,price,direction,parent,pnl $,pair,pnl %,exit_price,exit_date,duration,order_close
+6377,2022-06-21,1238.303066626587,0.3226,long,6377,37.3026415790593,XRPUSDT,9.337879727216365,0.3534,2022-06-24 16:00:00,3 days 16:00:00,TRAILING STOP

@@ -1,0 +1,2 @@
+ref,date,size,price,direction,parent,pnl $,pair,pnl %,exit_price,exit_date,duration,order_close
+4595,2022-04-27 14:00:00,4.006019043613029,99.76,long,-1,-6.802300456435795,SOLUSDT,-1.7021050521251,98.26,2022-04-27 18:00:00,0 days 04:00:00,SIGNAL
