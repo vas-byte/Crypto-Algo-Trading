@@ -153,7 +153,7 @@ Then select the best strategy with
 
 To produce the parameter matrix as shown below:
 
-![](https://github.cs.adelaide.edu.au/a1887068/CryptoProject/blob/main/In%20Sample/Sentiment/param_vs_return_sharpe_combined.png)
+![](https://github.com/vas-byte/Crypto-Algo-Trading/blob/main/In%20Sample/Sentiment/param_vs_return_sharpe_combined.png)
 
 run ```python3 parameter_matrix.py```
 
@@ -235,19 +235,19 @@ Once completed for all coins (we did ADA, BTC, DOGE, SOL, XRP, ETH), you can exe
 In the project root directory
 
 ```python3 social_sentiment.py``` to produce the following visual showing the difference in enagagement metrics over the back-testing periods:
-![](https://github.cs.adelaide.edu.au/a1887068/CryptoProject/assets/4547/229fa15b-730c-451e-91ff-8707242a5f7c)
+![](https://github.com/vas-byte/Crypto-Algo-Trading/blob/main/crypto_sentiment_metrics.png)
 
 ```python3 "In Sample"/Sentiment/xmr_vis.py``` to show engagement metrics for XMR during the in-sample period, as shown below:
 
-![](https://github.cs.adelaide.edu.au/a1887068/CryptoProject/blob/main/In%20Sample/Sentiment/xmr_visual.png)
+![](https://github.com/vas-byte/Crypto-Algo-Trading/blob/main/In%20Sample/Sentiment/xmr_visual.png)
 
 ```python3 "In Sample"/Sentiment/sentiment_correlation.py``` to plot Granger Causality, Pearson and Spearman coefficients, as shown below:
 
-![](https://github.cs.adelaide.edu.au/a1887068/CryptoProject/blob/main/In%20Sample/Sentiment/correlation/ADA_correlation_visualization.png)
+![](https://github.com/vas-byte/Crypto-Algo-Trading/blob/main/In%20Sample/Sentiment/correlation/ADA_correlation_visualization.png)
 
 ```python3 "Out of sample"/Sentiment/correlation.py``` to plot Granger Causality, as shown below:
 
-![](https://github.cs.adelaide.edu.au/a1887068/CryptoProject/assets/4547/e8761535-e5a0-48b8-a409-2ebf07ea9b80)
+![](https://github.com/vas-byte/Crypto-Algo-Trading/blob/main/Out%20of%20sample/Sentiment/correlation/ADAUSDT_1h_granger_side_by_side.png)
 
 
 ## Live Trading
